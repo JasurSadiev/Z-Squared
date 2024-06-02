@@ -1,0 +1,12 @@
+.cesium-viewer-timelineContainer {
+	position: absolute;
+	font-size: 16px;
+	/* transform: rotate(90deg); */
+	transform-origin: top left;
+	bottom: 0;
+	left: 0;
+}
+
+.cesium-viewer-bottom {
+	display: none;
+}

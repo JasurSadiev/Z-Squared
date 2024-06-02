@@ -1,0 +1,13 @@
+@import "cesium/Build/Cesium/Widgets/widgets.css";
+
+#cesiumContainer {
+	min-width: 100vw;
+	max-height: 100vh;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.app {
+	width: 100vw;
+	height: 100vh;
+}
